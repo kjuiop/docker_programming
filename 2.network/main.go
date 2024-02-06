@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	MongoDBHost = "localhost"
+	MongoDBHost = "host.docker.internal"
 	MongoDBPort = 27017
 )
 
